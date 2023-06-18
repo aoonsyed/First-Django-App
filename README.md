@@ -1,2 +1,2 @@
 # First-Django-App
-Django Implementation
+Python Django
